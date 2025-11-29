@@ -51,6 +51,30 @@ How to increase revenue 50%?
    └─ Checkout abandonment 68% vs 58% - friction exists
 ```
 
+### 📊 Storyline Builder
+Build presentation storylines where each line becomes a slide title, creating logical narrative flow.
+
+**Use when:**
+- Structuring presentation decks
+- Building pitch decks or strategy presentations
+- Creating executive communications
+- Organizing complex narratives
+
+**Download:** [storyline-builder.skill](storyline-builder.skill)  
+**View Source:** [SKILL.md](storyline-builder/SKILL.md)
+
+**Example Output:**
+```
+Market Strategy Storyline:
+1. SaaS market represents $50B opportunity growing at 25% CAGR
+2. We operate in mid-market segment worth $8B with 30% growth
+3. Top 3 competitors generate $100M-500M revenue growing 20-40% annually
+4. Our revenue of $15M positions us as emerging player with 25% growth
+5. Product addresses workflow automation for creative agencies
+6. Pricing structured as subscription model with $75K average contract value
+...
+```
+
 ## How to Use
 
 1. Download the `.skill` file
@@ -60,7 +84,6 @@ How to increase revenue 50%?
 
 ## Coming Soon
 
-- Executive Summary Generator
 - Slide Structure Helper
 - Excel Structure Helper
 
